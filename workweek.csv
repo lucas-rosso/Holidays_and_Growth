@@ -1,0 +1,233 @@
+country,year,working_days,weekend1,weekend2
+Afghanistan,2019,245,Thursday,Friday
+Albania,2019,250,Saturday,Sunday
+Algeria,2019,253,Friday,Saturday
+American Samoa,2019,248,Saturday,Sunday
+Andorra,2019,250,Saturday,Sunday
+Angola,2019,249,Saturday,Sunday
+Anguilla,2019,247,Saturday,Sunday
+Antigua and Barbuda,2019,250,Saturday,Sunday
+Argentina,2019,245,Saturday,Sunday
+Armenia,2019,248,Saturday,Sunday
+Aruba,2019,251,Saturday,Sunday
+Australia,2019,255,Saturday,Sunday
+Austria,2019,250,Saturday,Sunday
+Azerbaijan,2019,242,Saturday,Sunday
+Bahamas,2019,250,Saturday,Sunday
+Bahrain,2019,247,Friday,Saturday
+Bangladesh,2019,236,Friday,Saturday
+Barbados,2019,250,Saturday,Sunday
+Belarus,2019,252,Saturday,Sunday
+Belgium,2019,249,Saturday,Sunday
+Belize,2019,248,Saturday,Sunday
+Benin,2019,250,Saturday,Sunday
+Bermuda,2019,251,Saturday,Sunday
+Bhutan,2019,247,Saturday,Sunday
+Bolivia,2019,251,Saturday,Sunday
+Bosnia and Herzegovina,2019,247,Saturday,Sunday
+Botswana,2019,247,Saturday,Sunday
+Brazil,2019,249,Saturday,Sunday
+British Virgin Islands,2019,246,Saturday,Sunday
+Brunei,2019,246,Friday,Sunday
+Bulgaria,2019,249,Saturday,Sunday
+Burkina Faso,2019,249,Saturday,Sunday
+Burundi,2019,250,Saturday,Sunday
+Cambodia,2019,240,Saturday,Sunday
+Cameroon,2019,251,Saturday,Sunday
+Canada,2019,251,Saturday,Sunday
+Cape Verde,2019,255,Saturday,Sunday
+Cayman Islands,2019,248,Saturday,Sunday
+Central African Republic,2019,250,Saturday,Sunday
+Chad,2019,252,Saturday,Sunday
+Chile,2019,249,Saturday,Sunday
+China,2019,246,Saturday,Sunday
+Colombia,2019,243,Saturday,Sunday
+Comoros,2019,252,Saturday,Sunday
+Congo DR,2019,253,Saturday,Sunday
+Cook Islands,2019,251,Saturday,Sunday
+Costa Rica,2019,252,Saturday,Sunday
+Croatia,2019,251,Saturday,Sunday
+Cuba,2019,252,Saturday,Sunday
+Curaçao,2019,251,Saturday,Sunday
+Cyprus,2019,247,Saturday,Sunday
+Czech Republic,2019,251,Saturday,Sunday
+Denmark,2019,250,Saturday,Sunday
+Djibouti,2019,302,Friday,Friday
+Dominica,2019,248,Saturday,Sunday
+Dominican Republic,2019,250,Saturday,Sunday
+Ecuador,2019,247,Saturday,Sunday
+Egypt,2019,244,Friday,Saturday
+El Salvador,2019,253,Saturday,Sunday
+Equatorial Guinea,2019,303,Sunday,Sunday
+Eritrea,2019,250,Saturday,Sunday
+Estonia,2019,253,Saturday,Sunday
+Ethiopia,2019,255,Saturday,Sunday
+Falkland Islands,2019,251,Saturday,Sunday
+Faroe Islands,2019,247,Saturday,Sunday
+Fiji,2019,253,Saturday,Sunday
+Finland,2019,251,Saturday,Sunday
+France,2019,251,Saturday,Sunday
+French Guiana,2019,247,Saturday,Sunday
+French Polynesia,2019,250,Saturday,Sunday
+Gabon,2019,251,Saturday,Sunday
+Gambia,2019,249,Saturday,Sunday
+Georgia,2019,251,Saturday,Sunday
+Germany,2019,252,Saturday,Sunday
+Ghana,2019,248,Saturday,Sunday
+Gibraltar,2019,249,Saturday,Sunday
+Greece,2019,250,Saturday,Sunday
+Greenland,2019,250,Saturday,Sunday
+Grenada,2019,248,Saturday,Sunday
+Guadeloupe,2019,246,Saturday,Sunday
+Guam,2019,249,Saturday,Sunday
+Guatemala,2019,253,Saturday,Sunday
+Guernsey,2019,254,Saturday,Sunday
+Guinea,2019,252,Saturday,Sunday
+Guinea-Bissau,2019,255,Saturday,Sunday
+Guyana,2019,248,Saturday,Sunday
+Haiti,2019,253,Saturday,Sunday
+Honduras,2019,254,Saturday,Sunday
+Hong Kong,2019,297,Sunday,Sunday
+Hungary,2019,250,Monday,Tuesday
+Iceland,2019,247,Saturday,Sunday
+India,2019,277,Sunday,Sunday
+Indonesia,2019,246,Saturday,Sunday
+Iran,2019,293,Friday,Friday
+Iraq,2019,246,Friday,Saturday
+Ireland,2019,253,Saturday,Sunday
+Isle of Man,2019,251,Saturday,Sunday
+Israel,2019,252,Friday,Saturday
+Italy,2019,253,Saturday,Sunday
+Ivory Coast,2019,249,Saturday,Sunday
+Jamaica,2019,251,Saturday,Sunday
+Japan,2019,244,Saturday,Sunday
+Jersey,2019,252,Saturday,Sunday
+Jordan,2019,246,Friday,Saturday
+Kazakhstan,2019,246,Saturday,Sunday
+Kenya,2019,250,Saturday,Sunday
+Kiribati,2019,248,Saturday,Sunday
+Kosovo,2019,250,Saturday,Sunday
+Kuwait,2019,250,Friday,Saturday
+Kyrgyzstan,2019,248,Saturday,Sunday
+La Réunion,2019,250,Saturday,Sunday
+Laos,2019,248,Saturday,Sunday
+Latvia,2019,250,Saturday,Sunday
+Lebanon,2019,243,Saturday,Sunday
+Lesotho,2019,251,Saturday,Sunday
+Liberia,2019,250,Saturday,Sunday
+Libya,2019,255,Friday,Saturday
+Liechtenstein,2019,250,Saturday,Sunday
+Lithuania,2019,251,Saturday,Sunday
+Luxembourg,2019,251,Saturday,Sunday
+Macau,2019,239,Saturday,Sunday
+Madagascar,2019,249,Saturday,Sunday
+Malawi,2019,249,Saturday,Sunday
+Malaysia,2019,251,Saturday,Sunday
+Maldives,2019,244,Friday,Saturday
+Mali,2019,255,Saturday,Sunday
+Malta,2019,251,Saturday,Sunday
+Marshall Islands,2019,250,Saturday,Sunday
+Martinique,2019,250,Saturday,Sunday
+Mauritania,2019,256,Saturday,Sunday
+Mauritius,2019,248,Saturday,Sunday
+Mayotte,2019,258,Saturday,Sunday
+Mexico,2019,251,Saturday,Sunday
+Micronesia,2019,255,Saturday,Sunday
+Moldova,2019,251,Saturday,Sunday
+Monaco,2019,251,Saturday,Sunday
+Mongolia,2019,251,Saturday,Sunday
+Montenegro,2019,254,Saturday,Sunday
+Montserrat,2019,251,Saturday,Sunday
+Morocco,2019,248,Saturday,Sunday
+Mozambique,2019,253,Saturday,Sunday
+Myanmar,2019,244,Saturday,Sunday
+Namibia,2019,250,Saturday,Sunday
+Nauru,2019,249,Saturday,Sunday
+Nepal,2019,279,Saturday,Saturday
+New Caledonia,2019,250,Saturday,Sunday
+New Zealand,2019,251,Saturday,Sunday
+Nicaragua,2019,255,Saturday,Sunday
+Niger,2019,253,Saturday,Sunday
+Nigeria,2019,246,Saturday,Sunday
+North Korea,2019,249,Saturday,Sunday
+North Macedonia,2019,249,Saturday,Sunday
+Northern Mariana Islands,2019,247,Saturday,Sunday
+Norway,2019,251,Saturday,Sunday
+Oman,2019,246,Friday,Saturday
+Pakistan,2019,238,Saturday,Sunday
+Palau,2019,250,Saturday,Sunday
+Panama,2019,302,Sunday,Sunday
+Papua New Guinea,2019,252,Saturday,Sunday
+Paraguay,2019,250,Saturday,Sunday
+Peru,2019,249,Saturday,Sunday
+Philippines,2019,244,Saturday,Sunday
+Poland,2019,251,Saturday,Sunday
+Portugal,2019,252,Saturday,Sunday
+Puerto Rico,2019,256,Saturday,Sunday
+Qatar,2019,246,Friday,Saturday
+Republic of the Congo,2019,252,Saturday,Sunday
+Romania,2019,249,Saturday,Sunday
+Russia,2019,247,Saturday,Sunday
+Rwanda,2019,249,Saturday,Sunday
+Saint Barthélemy,2019,249,Saturday,Sunday
+Saint Helena,2019,252,Saturday,Sunday
+Saint Kitts and Nevis,2019,248,Saturday,Sunday
+Saint Lucia,2019,248,Saturday,Sunday
+Saint Martin,2019,251,Saturday,Sunday
+Saint Pierre and Miquelon,2019,252,Saturday,Sunday
+Saint Vincent and the Grenadines,2019,250,Saturday,Sunday
+Samoa,2019,252,Saturday,Sunday
+San Marino,2019,247,Saturday,Sunday
+São Tomé and Príncipe,2019,254,Saturday,Sunday
+Saudi Arabia,2019,253,Friday,Saturday
+Senegal,2019,248,Saturday,Sunday
+Serbia,2019,252,Saturday,Sunday
+Seychelles,2019,250,Saturday,Sunday
+Sierra Leone,2019,252,Saturday,Sunday
+Singapore,2019,250,Saturday,Sunday
+Sint Maarten,2019,250,Saturday,Sunday
+Slovakia,2019,250,Saturday,Sunday
+Slovenia,2019,249,Saturday,Sunday
+Solomon Islands,2019,252,Saturday,Sunday
+Somalia,2019,308,Friday,Friday
+South Africa,2019,249,Saturday,Sunday
+South Korea,2019,248,Saturday,Sunday
+South Sudan,2019,252,Friday,Saturday
+Spain,2019,253,Saturday,Sunday
+Sri Lanka,2019,244,Saturday,Sunday
+Sudan,2019,248,Friday,Saturday
+Suriname,2019,246,Saturday,Sunday
+Swaziland,2019,250,Saturday,Sunday
+Sweden,2019,250,Saturday,Sunday
+Switzerland,2019,260,Saturday,Sunday
+Syria,2019,250,Friday,Saturday
+Taiwan,2019,248,Saturday,Sunday
+Tajikistan,2019,252,Saturday,Sunday
+Tanzania,2019,249,Saturday,Sunday
+Thailand,2019,240,Saturday,Sunday
+The Netherlands,2019,254,Saturday,Sunday
+Timor-Leste,2019,250,Saturday,Sunday
+Togo,2019,251,Saturday,Sunday
+Tonga,2019,246,Saturday,Sunday
+Trinidad and Tobago,2019,247,Saturday,Sunday
+Tunisia,2019,250,Saturday,Sunday
+Turkey,2019,247,Saturday,Sunday
+Turkmenistan,2019,252,Saturday,Sunday
+Turks and Caicos Islands,2019,249,Saturday,Sunday
+Tuvalu,2019,250,Saturday,Sunday
+U.S. Virgin Islands,2019,246,Saturday,Sunday
+Uganda,2019,251,Saturday,Sunday
+Ukraine,2019,250,Saturday,Sunday
+United Arab Emirates,2019,249,Friday,Saturday
+United Kingdom,2019,255,Saturday,Sunday
+United States,2019,250,Saturday,Sunday
+Uruguay,2019,257,Saturday,Sunday
+Uzbekistan,2019,255,Saturday,Sunday
+Vanuatu,2019,248,Saturday,Sunday
+Vatican City,2019,247,Saturday,Sunday
+Venezuela,2019,243,Saturday,Sunday
+Vietnam,2019,252,Saturday,Sunday
+Wallis and Futuna,2019,251,Saturday,Sunday
+Yemen,2019,249,Friday,Saturday
+Zambia,2019,248,Saturday,Sunday
+Zimbabwe,2019,249,Saturday,Sunday
